@@ -42,3 +42,4 @@
 /Users/anderson.rodrigues/Documents/workspace/projects/Catalog/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
 /Users/anderson.rodrigues/Documents/workspace/projects/Catalog/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
 /Users/anderson.rodrigues/Documents/workspace/projects/Catalog/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+/Users/anderson.rodrigues/Documents/workspace/projects/Catalog/bin/Debug/net5.0/Catalog.postman_collection.json
