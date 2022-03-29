@@ -57,7 +57,8 @@ namespace Catalog
                     mongoDbSettings.ConnectString,
                     name: "MongoDb",
                     timeout: TimeSpan.FromSeconds(3),
-                    tags: new[] { "ready" });
+                    tags: new[] { "ready" })
+                    ;
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
